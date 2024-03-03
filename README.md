@@ -3,6 +3,8 @@ Automated Microsoft Rewards script, however this time using TypeScript, Cheerio 
 
 Under development, however mainly for personal use!
 
+Added colors to terminal to have better organization.
+
 ## How to setup ##
 1. Download or clone source code
 2. Run `npm i` to install the packages
